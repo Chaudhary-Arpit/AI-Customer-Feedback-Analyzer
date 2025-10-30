@@ -1,10 +1,4 @@
-# Sentiment Model Notebook (outline)
-# - Load cleaned_feedback.csv
-# - Create labels (positive/negative/neutral) for training
-# - Train a DistilBERT model using Hugging Face Trainer (or use a simple sklearn baseline)
-# - Save the model and tokenizer
-
-# NOTE: Full training requires GPU and time; here we provide starter code.
+e.
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -14,7 +8,6 @@ from sklearn.metrics import classification_report
 import joblib
 
 df = pd.read_csv('cleaned_feedback.csv')
-# Simple labeling heuristic for demo purposes
 def label_text(x):
     txt = str(x).lower()
     if any(w in txt for w in ['excellent','amazing','great','satisfied','helpful','fast']):
