@@ -29,5 +29,4 @@ AI_Customer_Feedback_Project/
    ```
 
 ## Notes about authorship
-This project was generated with AI assistance to help you learn and adapt. You should review and understand the code, and add your own edits before submission.
-BY Arpit Chaudhary........
+This is Made By Arpit Chaudhary .......
