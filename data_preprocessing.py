@@ -1,9 +1,3 @@
-# Data Preprocessing Notebook
-# Steps:
-# 1. Load CSV
-# 2. Clean text (remove punctuation, lowercase)
-# 3. Tokenize, remove stopwords, lemmatize
-# 4. Save cleaned CSV
 
 import pandas as pd
 import re
