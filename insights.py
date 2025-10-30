@@ -1,7 +1,3 @@
-# Insights Notebook
-# - Load cleaned_feedback.csv
-# - Compute simple recurring issue detection by keyword frequency
-# - Simulate sentiment score trend and forecast with ARIMA
 
 import pandas as pd
 import matplotlib.pyplot as plt
