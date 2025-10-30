@@ -1,13 +1,13 @@
-customer_id,feedback
-1,The product is amazing! Really satisfied with the quality.
-2,Terrible customer service, not happy at all.
-3,Delivery was quick but packaging was poor.
-4,Excellent value for money, will buy again.
-5,The app keeps crashing and it's so frustrating.
-6,Support helped me quickly and resolved my issue.
-7,Product arrived with missing parts.
-8,Very satisfied. Smooth experience from start to finish.
-9,The user interface is confusing and slow.
-10,Fast delivery but the product was damaged.
-11,I'm neutral about the product; it's okay.
-12,Great customer service and super helpful staff.
+id,feedback
+1,"The product is amazing! Really satisfied with the quality."
+2,"The service was poor and I’m not happy at all."
+3,"Polite customer service, not bad."
+4,"Excellent value for money! Will buy again."
+5,"The app keeps crashing, it’s so frustrating."
+6,"Support helped me quickly and resolved my issue."
+7,"Product arrived with missing parts and slow delivery."
+8,"Very satisfied with smooth experience from start to finish."
+9,"The user interface is confusing."
+10,"Fast delivery but packaging was damaged."
+11,"I’m neutral about the product, it’s okay."
+12,"Great customer service and super helpful staff."
