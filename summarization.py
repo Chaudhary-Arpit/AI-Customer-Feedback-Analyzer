@@ -1,5 +1,4 @@
-# Summarization Notebook (using T5-small)
-# This notebook demonstrates summarization using transformers T5.
+
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 tokenizer = T5Tokenizer.from_pretrained('t5-small')
